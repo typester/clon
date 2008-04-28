@@ -1,0 +1,7 @@
+---
+name: CLON
+
+default_view: TT
+View::TT:
+  INCLUDE_PATH: __path_to(templates)__
+#  WRAPPER: common/wrapper.tt
